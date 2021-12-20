@@ -1,7 +1,7 @@
 dl_playground
 ==============================
 
-AI, DL, ML, and DS Playground
+Personal AI, DL, ML, and DS Playground
 
 Project Organization
 ------------
